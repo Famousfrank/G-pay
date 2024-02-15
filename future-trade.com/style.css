@@ -1,0 +1,55 @@
+.team:hover{
+box-shadow: 2px 4px 8px black;
+}
+
+.teamcl{
+    background-color: rgb(207, 136, 4) !important;
+}
+.anu{
+    background-color: rgba(5, 148, 5, 0.856) !important;
+}
+
+.seemore{
+    background-color: rgb(1, 8, 51) !important;
+}
+
+.text{
+    color: rgb(1, 8, 51) !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800 !important;
+}
+
+.anal{
+    color: green !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    text-align: center !important;
+    font-size: 25px;
+}
+
+#val{
+    color: rgb(6, 11, 51) !important;
+}
+
+#val:hover{
+    color: rgb(199, 121, 5) !important;
+}
+
+.list{
+    color: rgb(199, 121, 5) !important;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list2{
+    font-size: 20px;
+    color: rgb(241, 202, 142) !important;
+}
+
+.page4{
+    color: rgb(199, 121, 5) !important;   
+}
+
+.agree::first-letter{
+   font-size: 40px;
+   color: rgb(175, 127, 6);
+}
